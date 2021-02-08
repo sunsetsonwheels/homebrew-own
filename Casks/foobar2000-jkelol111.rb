@@ -7,7 +7,7 @@ cask "foobar2000-jkelol111" do
   desc "foobar2000 is an advanced freeware audio player."
   homepage "https://www.foobar2000.org/"
 
-  depends_on macos: ">= :el-capitan"
+  depends_on macos: ">= :el_capitan"
 
   app "foobar2000.app"
 end
