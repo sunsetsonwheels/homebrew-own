@@ -1,6 +1,6 @@
 cask "deemix-pyweb-jkelol111" do
   version :latest
-  sha256 :nocheck
+  sha256 :no_check
 
   url "https://download.deemix.app/pyweb/macosx-10.14-x86_64-latest.zip"
   name "deemix-pyweb"
