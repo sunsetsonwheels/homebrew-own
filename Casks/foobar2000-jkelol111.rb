@@ -1,6 +1,6 @@
 cask "foobar2000-jkelol111" do
   version "v2.2.15"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  sha256 "9a075c0c12e3a5acca6a50aa9afa6b8dddfc3ec8f6d37a35b2e75706508f3edd"
 
   url "https://www.foobar2000.org/files/foobar2000-#{version}.dmg"
   name "foobar2000"
