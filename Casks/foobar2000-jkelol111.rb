@@ -10,4 +10,9 @@ cask "foobar2000-jkelol111" do
   depends_on macos: ">= :el_capitan"
 
   app "foobar2000.app"
+
+  zap trash: [
+    "~/Library/foobar2000",
+    "~/Library/Preferences/com.foobar2000.mac.plist",
+  ]
 end
